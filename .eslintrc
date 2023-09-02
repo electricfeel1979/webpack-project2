@@ -2,5 +2,6 @@
     "parser": "@babel/eslint-parser",
     "rules": {
         "no-console": "warn"
-    }
+    },
+    "extends": ["airbnb-base"]
 }
